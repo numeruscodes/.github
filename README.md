@@ -1,5 +1,3 @@
-![ScreenShoot Apps](docs/image/banner.png?raw=true)
-
 ## Numerus Code
 Developing apps with reskin ability
 
