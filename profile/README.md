@@ -2,8 +2,7 @@
 
 
 <p align="center">
-  
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/panda-blink-2.gif" >
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/panda-blink.gif" >
 </p>
 
 
